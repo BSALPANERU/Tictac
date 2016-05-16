@@ -1,4 +1,4 @@
-
+//for a single cell
 public class Cell {
 	
 	int row,col;
